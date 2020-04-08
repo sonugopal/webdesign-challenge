@@ -10738,12 +10738,12 @@ a {
     -webkit-transition: .3s all ease;
     -o-transition: .3s all ease;
     transition: .3s all ease;
-    color: #5084b5
+    color:  #2a1a1a
 }
 
 a:hover, a:focus {
     text-decoration: none;
-    color: #5084b5;
+    color:  #2a1a1a ;
     outline: none !important
 }
 
@@ -10754,7 +10754,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
 }
 
 .text-primary {
-    color: #5084b5 !important
+    color:  #2a1a1a  !important
 }
 
 .ftco-navbar-light {
@@ -10808,7 +10808,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
 }
 
 .ftco-navbar-light .navbar-nav > .nav-item > .nav-link:hover {
-    color: #5084b5
+    color:  #2a1a1a
 }
 
 @media (max-width: 991.98px) {
@@ -10864,13 +10864,13 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
 
 .ftco-navbar-light .navbar-nav > .nav-item.cta > a {
     color: #fff;
-    border: 1px solid #5084b5;
+    border: 1px solid  #2a1a1a ;
     padding-top: .5rem;
     padding-bottom: .5rem;
     padding-left: 20px;
     padding-right: 20px;
     margin-top: 4px;
-    background: #5084b5;
+    background:  #2a1a1a ;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     -ms-border-radius: 5px;
@@ -10884,8 +10884,8 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
 
 .ftco-navbar-light .navbar-nav > .nav-item.cta > a:hover {
     color: #fff;
-    background: #5084b5;
-    border: 1px solid #5084b5
+    background:  #2a1a1a ;
+    border: 1px solid  #2a1a1a
 }
 
 .ftco-navbar-light .navbar-nav > .nav-item.cta.cta-colored a {
@@ -10895,7 +10895,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
 
 .ftco-navbar-light .navbar-nav > .nav-item.active > a {
     color: rgba(255, 255, 255, .5);
-    color: #5084b5
+    color:  #2a1a1a
 }
 
 .ftco-navbar-light .navbar-toggler {
@@ -10910,7 +10910,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
 
 .ftco-navbar-light .navbar-toggler:hover, .ftco-navbar-light .navbar-toggler:focus {
     text-decoration: none;
-    color: #5084b5;
+    color:  #2a1a1a ;
     outline: none !important
 }
 
@@ -10934,12 +10934,12 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
 }
 
 .ftco-navbar-light.scrolled .nav-item.active > a {
-    color: #5084b5 !important
+    color:  #2a1a1a  !important
 }
 
 .ftco-navbar-light.scrolled .nav-item.cta > a {
     color: #fff !important;
-    background: #5084b5;
+    background:  #2a1a1a ;
     border: none !important;
     padding-top: .5rem !important;
     padding-bottom: .5rem !important;
@@ -10958,7 +10958,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
 }
 
 .ftco-navbar-light.scrolled .nav-item.cta.cta-colored span {
-    border-color: #5084b5
+    border-color:  #2a1a1a
 }
 
 @media (max-width: 991.98px) {
@@ -10988,7 +10988,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
 }
 
 .ftco-navbar-light.scrolled .nav-link.active {
-    color: #5084b5 !important
+    color:  #2a1a1a  !important
 }
 
 .ftco-navbar-light.scrolled.awake {
@@ -11136,7 +11136,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
     letter-spacing: 4px;
     text-transform: uppercase;
     display: inline-block;
-    color: #5084b5
+    color:  #2a1a1a
 }
 
 .hero-wrap .slider-text .text {
@@ -11186,7 +11186,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
 
 .hero-wrap .slider-text .btn-custom {
     color: #fff;
-    background: #5084b5;
+    background:  #2a1a1a ;
     padding: 10px 20px
 }
 
@@ -11243,7 +11243,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
 }
 
 .bg-primary {
-    background: #5084b5
+    background:  #2a1a1a
 }
 
 .btn {
@@ -11264,26 +11264,26 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
 }
 
 .btn.btn-primary {
-    background: #d11ea6;
-    border: 1px solid #d11ea6;
+    background:  #cf0404 ;
+    border: 1px solid  #cf0404 ;
     color: #fff
 }
 
 .btn.btn-primary:hover {
-    border: 1px solid #5084b5;
+    border: 1px solid  #2a1a1a ;
     background: #fff;
-    color: #d11ea6
+    color:  #cf0404
 }
 
 .btn.btn-primary.btn-outline-primary {
-    border: 2px solid #d11ea6;
+    border: 2px solid  #cf0404 ;
     background: 0 0;
-    color: #d11ea6
+    color:  #cf0404
 }
 
 .btn.btn-primary.btn-outline-primary:hover {
     border: 2px solid transparent;
-    background: #d11ea6;
+    background:  #cf0404 ;
     color: #fff
 }
 
@@ -11301,7 +11301,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
 .btn.btn-outline-white:hover, .btn.btn-outline-white:focus, .btn.btn-outline-white:active {
     background: #fff;
     border-color: #fff;
-    color: #d11ea6
+    color:  #cf0404
 }
 
 .heading-white {
@@ -11321,7 +11321,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
 }
 
 .ftco-wrap {
-    background: #5084b5;
+    background:  #2a1a1a ;
     border-radius: 50px 0 50px 0
 }
 
@@ -11508,7 +11508,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
 
 .table tbody tr td.color {
     color: #fff;
-    background: #5084b5;
+    background:  #2a1a1a ;
     border-bottom: 1px solid rgba(255, 255, 255, .1) !important
 }
 
@@ -11585,7 +11585,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
     width: 80px;
     height: 80px;
     margin: 0 auto;
-    background: #5084b5;
+    background:  #2a1a1a ;
     -moz-transition: all .3s ease;
     -o-transition: all .3s ease;
     -webkit-transition: all .3s ease;
@@ -11621,7 +11621,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
 }
 
 .services:hover {
-    background: #5084b5
+    background:  #2a1a1a
 }
 
 .services:hover .icon {
@@ -11629,7 +11629,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
 }
 
 .services:hover .icon span {
-    color: #5084b5
+    color:  #2a1a1a
 }
 
 .services:hover .media-body h3 {
@@ -11649,7 +11649,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
     width: 100px;
     height: 100px;
     margin: 0 auto;
-    background: #5084b5;
+    background:  #2a1a1a ;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
@@ -11884,7 +11884,7 @@ textarea.form-control {
 }
 
 .bg-primary {
-    background: #5084b5 !important
+    background:  #2a1a1a  !important
 }
 
 .media-custom {
@@ -11895,7 +11895,7 @@ textarea.form-control {
     font-weight: 500;
     font-size: 16px;
     margin-bottom: 0;
-    color: #5084b5
+    color:  #2a1a1a
 }
 
 .media-custom .media-body .position {
@@ -12046,7 +12046,7 @@ textarea.form-control {
 }
 
 .footer-small-nav > li a:hover, .footer-small-nav > li a:focus {
-    color: #5084b5
+    color:  #2a1a1a
 }
 
 .media .ftco-icon {
@@ -12054,7 +12054,7 @@ textarea.form-control {
 }
 
 .media .ftco-icon span {
-    color: #5084b5
+    color:  #2a1a1a
 }
 
 .ftco-media {
@@ -12087,7 +12087,7 @@ textarea.form-control {
 .ftco-media .icon {
     font-size: 50px;
     display: block;
-    color: #5084b5
+    color:  #2a1a1a
 }
 
 .ftco-media.text-center .ftco-icon {
@@ -12341,7 +12341,7 @@ textarea.form-control {
 .ftco-section .nav-pills .nav-link {
     border-radius: 0;
     margin-bottom: 0;
-    color: #5084b5;
+    color:  #2a1a1a ;
     font-size: 18px;
     font-weight: 600;
     position: relative;
@@ -12460,7 +12460,7 @@ textarea.form-control {
 
 .ftco-counter {
     padding: 5em 0;
-    background: #5084b5
+    background:  #2a1a1a
 }
 
 @media (max-width: 991.98px) {
@@ -12490,7 +12490,7 @@ textarea.form-control {
     display: block;
     font-size: 72px;
     font-weight: 700;
-    color: #5084b5
+    color:  #2a1a1a
 }
 
 .ftco-counter .ftco-label {
@@ -12541,7 +12541,7 @@ textarea.form-control {
 }
 
 .blog-entry .text .heading a:hover, .blog-entry .text .heading a:focus, .blog-entry .text .heading a:active {
-    color: #5084b5
+    color:  #2a1a1a
 }
 
 .blog-entry .text .meta-chat {
@@ -12725,8 +12725,8 @@ textarea.form-control {
 
 .block-17 form .search-submit {
     width: 100%;
-    background: #5084b5;
-    border: 2px solid #5084b5;
+    background:  #2a1a1a ;
+    border: 2px solid  #2a1a1a ;
     color: #fff;
     padding: 12px 10px;
     -webkit-border-radius: 4px;
@@ -12765,7 +12765,7 @@ textarea.form-control {
 }
 
 .block-27 ul li a, .block-27 ul li span {
-    color: #5084b5;
+    color:  #2a1a1a ;
     text-align: center;
     display: inline-block;
     width: 40px;
@@ -12776,7 +12776,7 @@ textarea.form-control {
 }
 
 .block-27 ul li.active a, .block-27 ul li.active span {
-    background: #5084b5;
+    background:  #2a1a1a ;
     color: #fff;
     border: 1px solid transparent
 }
@@ -12862,7 +12862,7 @@ textarea.form-control {
 .block-7 .btn-primary:hover {
     border: none;
     color: #fff;
-    background: #5084b5 !important
+    background:  #2a1a1a  !important
 }
 
 .block-8 .accordion-item .heading {
@@ -12895,9 +12895,9 @@ textarea.form-control {
     -webkit-transition: .3s all ease;
     -o-transition: .3s all ease;
     transition: .3s all ease;
-    background: #5084b5;
+    background:  #2a1a1a ;
     color: #fff;
-    border: 1px solid #5084b5
+    border: 1px solid  #2a1a1a
 }
 
 .block-8 .accordion-item .heading > a[aria-expanded=false]:before {
@@ -12981,7 +12981,7 @@ textarea.form-control {
 }
 
 .block-4 .nonloop .owl-dots .owl-dot.active {
-    background: #5084b5
+    background:  #2a1a1a
 }
 
 .contact-section .contact-info p a {
@@ -13015,7 +13015,7 @@ textarea.form-control {
 }
 
 .block-21 .text .heading a:hover, .block-21 .text .heading a:active, .block-21 .text .heading a:focus {
-    color: #5084b5
+    color:  #2a1a1a
 }
 
 .block-21 .text .meta > div {
@@ -13062,7 +13062,7 @@ textarea.form-control {
     margin: 0;
     border-radius: 50% !important;
     font-size: 16px;
-    background: #5084b5;
+    background:  #2a1a1a ;
     color: #fff
 }
 
@@ -13161,7 +13161,7 @@ textarea.form-control {
     text-transform: uppercase;
     font-size: 13px;
     letter-spacing: .1em;
-    color: #5084b5;
+    color:  #2a1a1a ;
     margin-bottom: 15px
 }
 
@@ -13399,4 +13399,13 @@ textarea.form-control {
         stroke-dasharray: 89, 200;
         stroke-dashoffset: -136px
     }
+}
+
+label.error{
+    color:  #c90404 ;
+    float: right;
+    font-size: 15px;
+}
+#reg_otp_info,#otp,#otp_info,{
+    display: none;
 }
