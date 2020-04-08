@@ -10764,6 +10764,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
     left: 0;
     right: 0;
     z-index: 3
+
 }
 
 @media (max-width: 991.98px) {
@@ -13408,4 +13409,10 @@ label.error{
 }
 #reg_otp_info,#otp,#otp_info,{
     display: none;
+}
+#ftco-nav{
+    display: none !important;
+}
+input.form-control{
+    border-radius: 5px;
 }
